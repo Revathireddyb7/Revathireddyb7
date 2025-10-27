@@ -23,8 +23,7 @@ Here are the technologies I'm working with:
 **Other Interests:**
 * ![IoT](https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=googlecloud&logoColor=white)
 * ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
-* ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-
+* ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white) *(Interested in learning!)*
 ---
 
 ### 🔭 My Projects
