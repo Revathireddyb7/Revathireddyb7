@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Revathi
 
-I'm a final-year B.Tech student and an aspiring Java Full Stack Developer. I'm passionate about building backend systems, working with data, and exploring the world of IoT.
+I'm a final-year B.Tech student and **I'm learning Java Full Stack**. I'm passionate about building backend systems, working with data, and exploring the world of IoT.
 
 ---
 
@@ -31,10 +31,11 @@ Here are the technologies I'm working with:
 
 These are the projects I've built to practice my skills.
 
-**1. PetAlert (IoT Safety Device)**
+**1. PetAlert (IoT Safety Device) — *Finalist at the ADC Competition***
 * **Problem:** To prevent injuries to animals that take shelter under stationary vehicles by alerting them before the vehicle starts.
 * **Solution:** An IoT-based, multi-stage alert and deterrent system. It uses a piezo sensor to detect the vehicle starting, triggers a buzzer, checks for presence with a PIR sensor, and activates a water-spraying motor to safely encourage the animal to move. The driver receives real-time status updates via an ESP32 captive Wi-Fi portal.
 * **Tech:** ESP32, Arduino, C++, Piezo Sensor, PIR Sensor.
+* ***Note: As this was a collaborative team project, the code repository is private. I am happy to discuss the architecture and my specific contributions.***
 
 **2. Student CRUD (Hibernate)**
 * A full CRUD (Create, Read, Update, Delete) application for managing student records.
