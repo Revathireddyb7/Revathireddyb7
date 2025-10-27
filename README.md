@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Revathi
 
 I'm a final-year B.Tech student and an aspiring Java Full Stack Developer. I'm passionate about building backend systems, working with data, and exploring the world of IoT.
 
